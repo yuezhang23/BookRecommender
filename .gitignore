@@ -1,7 +1,7 @@
 .env
 books_cleaned.csv
 # Virtual Environment
-.venv/
+.venv/lib
 venv/
 
 # Bytecode and cache
