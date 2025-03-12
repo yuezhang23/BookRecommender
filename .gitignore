@@ -7,7 +7,6 @@ books_cleaned.csv
 # Bytecode and cache
 __pycache__/
 *.pyc
-
 # Logs and temp files
 *.log
 
@@ -16,3 +15,6 @@ __pycache__/
 
 # IDE files
 .vscode/
+*.dylib
+*.so
+.git/objects/pack/
