@@ -2,7 +2,7 @@
 books_cleaned.csv
 # Virtual Environment
 .venv/lib
-venv/
+.venv/
 
 # Bytecode and cache
 __pycache__/
