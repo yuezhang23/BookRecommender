@@ -1,0 +1,20 @@
+.env
+books_cleaned.csv
+# Virtual Environment
+.venv/lib
+.venv/
+
+# Bytecode and cache
+__pycache__/
+*.pyc
+# Logs and temp files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+*.dylib
+*.so
+.git/objects/pack/
